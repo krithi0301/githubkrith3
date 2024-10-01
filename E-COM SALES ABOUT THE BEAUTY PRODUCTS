@@ -1,0 +1,6 @@
+- E-commerce Sales Analysis and Customer Insights
+- Technologies: Python, Pandas, numpy.
+- Conducted sales analysis using data from Nykaa, Purple, and Tira, merging customer, product, and order, reviews, information in Pandas and numpy.
+- conclusion:
+  - Identified top customers by order frequency and applied a 10% discount system for frequent buyers.
+- Analyzed sales trends and customer reviews, providing insights for inventory decisions and customer loyalty programs.
