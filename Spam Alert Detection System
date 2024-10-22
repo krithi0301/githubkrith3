@@ -1,0 +1,12 @@
+-Spam Alert Detection System
+-Technologies Used: Python, Pandas, SQL
+
+-Overview:
+  Analyzed a dataset of phone calls to identify spam call patterns.
+
+-Key Actions:
+  Validated data and calculated average call durations.
+  Identified high-frequency spam callers.
+  Designed a SQL database for analysis, executing queries to extract insights like total call durations and spam caller rankings, using window functions for cumulative counts.
+-Outcome:
+  Improved understanding of spam call behaviors, leading to more effective call management strategies.
